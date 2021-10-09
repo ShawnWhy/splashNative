@@ -1,0 +1,22 @@
+{
+  "name": "splashnative",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShawnWhy/splashNative.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShawnWhy/splashNative/issues"
+  },
+  "homepage": "https://github.com/ShawnWhy/splashNative#readme",
+  "dependencies": {
+    "expo": "^42.0.4"
+  }
+}
